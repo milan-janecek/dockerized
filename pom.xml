@@ -3,7 +3,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/milan-janecek/dockerized</developerConnection>
-    <tag>HEAD</tag>
+    <tag>dockerized-1.0.0</tag>
   </scm>
 
   <groupId>com.example</groupId>
@@ -11,7 +11,7 @@
 
   <packaging>jar</packaging>
 
-  <version>0.0.3-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>dockerized</name>
 
   <dependencies>
